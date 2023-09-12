@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme">#FDC5C6</color>
+    <color name="circle">#FF7B8A</color>
+    <color name="rectangle_btn">#781D27</color>
+    <color name="length_theme">#C5F8AF</color>
+    <color name="bg_heading">#FDD835</color>
+    <color name="btn">#1F5A54</color>
+    <color name="temp_theme">#F8D1AF</color>
+    <color name="weight_theme">#E2AFF8</color>
+    <color name="splash_bg">#FFF7C2</color>
+</resources>
